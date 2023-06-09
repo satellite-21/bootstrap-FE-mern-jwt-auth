@@ -30,3 +30,33 @@ label {
   -webkit-border-radius: 50%;
   border-radius: 50%;
 }
+
+.movieContainer {
+  border: 1px solid black;
+  margin: 10px;
+  padding: 5px;
+  display: flex; /* Changed display to flex */
+  flex-direction: column; /* Added flex-direction to stack image and title vertically */
+  align-items: center; /* Added align-items to center items horizontally */
+  justify-content: center; /* Added justify-content to center items vertically */
+  overflow: hidden;
+  width: 220px;
+  float: left;
+}
+
+.img {
+  width: 220px;
+  height: calc(220px * 3/2);
+}
+
+.label {
+  background: transparent;
+  display: block;
+  height: auto;
+  max-width: 100%;
+  margin: auto;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  text-align: center; /* Added text-align to center the title horizontally */
+}
