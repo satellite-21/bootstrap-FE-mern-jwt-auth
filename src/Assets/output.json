@@ -1,162 +1,542 @@
 [
   {
     "Title": "Inception",
-    "URL": "https://movieswithaplottwist.com/wp-content/uploads/2016/03/Inception-movie-poster.jpg"
+    "URL": "https://movieswithaplottwist.com/wp-content/uploads/2016/03/Inception-movie-poster.jpg",
+    "Description": "Inception: A mind-bending heist movie set within the world of dreams."
   },
   {
     "Title": "American Psycho",
-    "URL": "https://image.tmdb.org/t/p/original/3hgh1c83S3br2L6btP9fxpFpM5c.jpg"
+    "URL": "https://image.tmdb.org/t/p/original/3hgh1c83S3br2L6btP9fxpFpM5c.jpg",
+    "Description": "American Psycho: A chilling psychological thriller about a wealthy investment banker with a dark and violent alter ego."
   },
   {
     "Title": "MS Dhoni The Untold Story",
-    "URL": "https://th.bing.com/th/id/R.49c58061fa4c57e46dc7b896104edb30?rik=GeTz4Fg0dQpW8w&riu=http%3a%2f%2fdrcricket7.com%2findia%2fwp-content%2fuploads%2f2016%2f09%2fMS-Dhoni-The-Untold-Story-Poster-2.jpg&ehk=aA1O226cgtJNrXL89e0XTZHg5QqOmtB0f5GGvsXzo1U%3d&risl=&pid=ImgRaw&r=0"
+    "URL": "https://th.bing.com/th/id/R.49c58061fa4c57e46dc7b896104edb30?rik=GeTz4Fg0dQpW8w&riu=http%3a%2f%2fdrcricket7.com%2findia%2fwp-content%2fuploads%2f2016%2f09%2fMS-Dhoni-The-Untold-Story-Poster-2.jpg&ehk=aA1O226cgtJNrXL89e0XTZHg5QqOmtB0f5GGvsXzo1U%3d&risl=&pid=ImgRaw&r=0",
+    "Description": "MS Dhoni: The Untold Story: A biographical film that explores the life and journey of Indian cricketer Mahendra Singh Dhoni."
   },
   {
     "Title": "The Dark Knight",
-    "URL": "https://th.bing.com/th/id/R.7858584e0e540252618d7bfb1ef46804?rik=pde7ZIE3QaH7Ig&riu=http%3a%2f%2fhost.trivialbeing.org%2fup%2ftdk-may17-joker-poster-large.jpg&ehk=g8dnVbBCb1VT%2fO9yUlm0aTB9RfEQ80PTB1aYTenHrKs%3d&risl=&pid=ImgRaw&r=0"
+    "URL": "https://th.bing.com/th/id/R.7858584e0e540252618d7bfb1ef46804?rik=pde7ZIE3QaH7Ig&riu=http%3a%2f%2fhost.trivialbeing.org%2fup%2ftdk-may17-joker-poster-large.jpg&ehk=g8dnVbBCb1VT%2fO9yUlm0aTB9RfEQ80PTB1aYTenHrKs%3d&risl=&pid=ImgRaw&r=0",
+    "Description": "The Dark Knight: The epic battle between Batman and the Joker unfolds in this gripping superhero film."
   },
   {
     "Title": "Shutter Island",
-    "URL": "https://image.tmdb.org/t/p/original/pOI1vG75ZL6EGyk9qeDP6HPkFt6.jpg"
+    "URL": "https://image.tmdb.org/t/p/original/pOI1vG75ZL6EGyk9qeDP6HPkFt6.jpg",
+    "Description": "Shutter Island: A suspenseful thriller about a U.S. Marshal investigating the disappearance of a patient from a psychiatric hospital."
   },
   {
     "Title": "The Godfather Part 1",
-    "URL": "https://i.pinimg.com/originals/11/99/dc/1199dc6273680f175fd9b06c9c36d08a.jpg"
+    "URL": "https://i.pinimg.com/originals/11/99/dc/1199dc6273680f175fd9b06c9c36d08a.jpg",
+    "Description": "The Godfather Part 1: A classic crime drama that delves into the Italian-American mafia and the Corleone family's rise to power."
   },
   {
     "Title": "Extraction",
-    "URL": "https://image.tmdb.org/t/p/original/96ovd9JPD57R8cIMmGluFMFWt10.jpg"
+    "URL": "https://image.tmdb.org/t/p/original/96ovd9JPD57R8cIMmGluFMFWt10.jpg",
+    "Description": "Extraction: An action-packed film following a black-market mercenary tasked with rescuing the kidnapped son of an international crime lord."
   },
   {
     "Title": "Interstellar",
-    "URL": "https://picfiles.alphacoders.com/349/thumb-1920-349599.jpg"
+    "URL": "https://picfiles.alphacoders.com/349/thumb-1920-349599.jpg",
+    "Description": "Interstellar: A sci-fi adventure that takes astronauts on a journey through space in search of a new habitable planet."
   },
   {
     "Title": "Passengers",
-    "URL": "https://www.themoviedb.org/t/p/original/vjgwnupjdG21Km86G9dAepPbMGO.jpg"
+    "URL": "https://www.themoviedb.org/t/p/original/vjgwnupjdG21Km86G9dAepPbMGO.jpg",
+    "Description": "Passengers: Two passengers on a spaceship wake up from hibernation too early, facing a perilous situation during their interstellar journey."
   },
   {
     "Title": "Black Hawk Down",
-    "URL": "https://image.tmdb.org/t/p/original/Kt8K9j0iPqZfHBgbg6Z9z5TK9n.jpg"
+    "URL": "https://image.tmdb.org/t/p/original/Kt8K9j0iPqZfHBgbg6Z9z5TK9n.jpg",
+    "Description": "Black Hawk Down: Based on true events, this intense war film depicts a U.S. military mission gone wrong in Somalia."
   },
   {
     "Title": "Amrican Sniper",
-    "URL": "https://th.bing.com/th/id/R.a81f5eabf7f46ca2f20198c4cf17e7ec?rik=sDRQZ3uUpFM0FQ&riu=http%3a%2f%2fcdn.collider.com%2fwp-content%2fuploads%2famerican-sniper-poster.jpg&ehk=SqJgI8NmEzjB5vDjVE7x8gavXjScMrbDbGGCk1ots8c%3d&risl=&pid=ImgRaw&r=0"
+    "URL": "https://th.bing.com/th/id/R.a81f5eabf7f46ca2f20198c4cf17e7ec?rik=sDRQZ3uUpFM0FQ&riu=http%3a%2f%2fcdn.collider.com%2fwp-content%2fuploads%2famerican-sniper-poster.jpg&ehk=SqJgI8NmEzjB5vDjVE7x8gavXjScMrbDbGGCk1ots8c%3d&risl=&pid=ImgRaw&r=0",
+    "Description": "American Sniper: The biographical drama tells the story of Navy SEAL sniper Chris Kyle's experiences during the Iraq War."
   },
   {
     "Title": "Inside Out",
-    "URL": "https://th.bing.com/th/id/R.2a113668820dd535cef5951a2ce95f1b?rik=dkNgF7mDrrFJjA&riu=http%3a%2f%2frotoscopers.com%2fwp-content%2fuploads%2f2015%2f03%2finside-out-final-poster-pixar.jpg&ehk=WVdFofsmEasqL6islFQVYB%2bTR2iMd9xSFPNkDEq6FW0%3d&risl=&pid=ImgRaw&r=0"
+    "URL": "https://th.bing.com/th/id/R.2a113668820dd535cef5951a2ce95f1b?rik=dkNgF7mDrrFJjA&riu=http%3a%2f%2frotoscopers.com%2fwp-content%2fuploads%2f2015%2f03%2finside-out-final-poster-pixar.jpg&ehk=WVdFofsmEasqL6islFQVYB%2bTR2iMd9xSFPNkDEq6FW0%3d&risl=&pid=ImgRaw&r=0",
+    "Description": "Inside Out: An animated film that explores the emotions inside a young girl's mind as she navigates life's challenges."
   },
   {
     "Title": "Soul",
-    "URL": "https://th.bing.com/th/id/OIP.dN9ZgkQ10AldMeI70pp3TgHaK-?pid=ImgDet&rs=1"
+    "URL": "https://th.bing.com/th/id/OIP.dN9ZgkQ10AldMeI70pp3TgHaK-?pid=ImgDet&rs=1",
+    "Description": "Soul: A heartwarming Pixar animation that follows a middle school music teacher who gets the chance to experience life from a different perspective."
   },
   {
     "Title": "Creed",
-    "URL": "https://th.bing.com/th/id/R.8b98e02ffd887e694ab1c53f733bea97?rik=ViYPQIbe95GdTg&riu=http%3a%2f%2fwww.blackfilm.com%2fread%2fwp-content%2fuploads%2f2015%2f09%2fCreed-Poster.jpg&ehk=jWGujcZl2eDQBozViAYC48T1UO8vXiSUSUmuAlm4VLc%3d&risl=&pid=ImgRaw&r=0"
+    "URL": "https://th.bing.com/th/id/R.8b98e02ffd887e694ab1c53f733bea97?rik=ViYPQIbe95GdTg&riu=http%3a%2f%2fwww.blackfilm.com%2fread%2fwp-content%2fuploads%2f2015%2f09%2fCreed-Poster.jpg&ehk=jWGujcZl2eDQBozViAYC48T1UO8vXiSUSUmuAlm4VLc%3d&risl=&pid=ImgRaw&r=0",
+    "Description": "Creed: The continuation of the Rocky saga, focusing on Apollo Creed's son as he trains to become a professional boxer."
   },
   {
     "Title": "Southpaw",
-    "URL": "https://i.pinimg.com/originals/25/cf/b2/25cfb225efc4776dbebc0d653a89f264.jpg"
+    "URL": "https://i.pinimg.com/originals/25/cf/b2/25cfb225efc4776dbebc0d653a89f264.jpg",
+    "Description": "Southpaw: A boxer's journey of redemption and personal growth after facing devastating losses in his personal and professional life."
   },
   {
     "Title": "Lucy",
-    "URL": "https://i.pinimg.com/736x/00/cc/d3/00ccd3bcb5328bbf9e35e7c767975b2e.jpg"
+    "URL": "https://i.pinimg.com/736x/00/cc/d3/00ccd3bcb5328bbf9e35e7c767975b2e.jpg",
+    "Description": "Lucy: A sci-fi action film where a woman gains superhuman abilities after unintentionally ingesting a revolutionary drug."
   },
   {
     "Title": "The Shawshank Redemption",
-    "URL": "https://th.bing.com/th/id/OIP.UjjZBFpkX2mautvtwYTBOAHaLA?pid=ImgDet&rs=1"
+    "URL": "https://th.bing.com/th/id/OIP.UjjZBFpkX2mautvtwYTBOAHaLA?pid=ImgDet&rs=1",
+    "Description": "The Shawshank Redemption: A gripping tale about friendship and hope set in a prison, based on Stephen King's novella."
   },
   {
     "Title": "Titanic",
-    "URL": "https://th.bing.com/th/id/OIP.XqG7LUbIi8q7DdiRLAliLgHaK5?pid=ImgDet&rs=1"
+    "URL": "https://th.bing.com/th/id/OIP.XqG7LUbIi8q7DdiRLAliLgHaK5?pid=ImgDet&rs=1",
+    "Description": "Titanic: A timeless romantic disaster film that tells the ill-fated love story aboard the RMS Titanic."
   },
   {
     "Title": "Rush Hour",
-    "URL": "https://th.bing.com/th/id/OIP.XYjPbEnc7dr2JZhz2zVDAQHaKj?pid=ImgDet&rs=1"
+    "URL": "https://th.bing.com/th/id/OIP.XYjPbEnc7dr2JZhz2zVDAQHaKj?pid=ImgDet&rs=1",
+    "Description": "Rush Hour: A hilarious action-comedy featuring mismatched detectives who team up to solve crimes."
   },
   {
     "Title": "Glass Onion a Knives Out Mystery",
-    "URL": "https://preview.redd.it/official-poster-for-glass-onion-a-knives-out-mystery-v0-51kjplvqkdw91.jpg?auto=webp&s=be0fac0909dc8f6121e90480d9c172cba1bc5777"
+    "URL": "https://preview.redd.it/official-poster-for-glass-onion-a-knives-out-mystery-v0-51kjplvqkdw91.jpg?auto=webp&s=be0fac0909dc8f6121e90480d9c172cba1bc5777",
+    "Description": "Knives Out: A modern murder-mystery film filled with twists and turns as a detective investigates the death of a wealthy patriarch."
   },
   {
     "Title": "Rudy",
-    "URL": "https://media.senscritique.com/media/000006730588/source_big/Rudy.jpg"
+    "URL": "https://media.senscritique.com/media/000006730588/source_big/Rudy.jpg",
+    "Description": "Rudy: An inspiring sports film based on the true story of a determined young man who dreams of playing college football."
   },
   {
     "Title": "Gangs of Wasseypur Part 1",
-    "URL": "https://upload.wikimedia.org/wikipedia/en/6/6a/Gangs_of_Wasseypur_poster.jpg"
+    "URL": "https://upload.wikimedia.org/wikipedia/en/6/6a/Gangs_of_Wasseypur_poster.jpg",
+    "Description": "Gangs of Wasseypur Part 1: An Indian crime film that spans several generations and portrays the power struggles between rival gangs."
   },
   {
     "Title": "Gangs of Wasseypur Part 2",
-    "URL": "https://www.themoviedb.org/t/p/original/uDn7QwfaLgFq0fwFr3oHFHFTyLg.jpg"
+    "URL": "https://www.themoviedb.org/t/p/original/uDn7QwfaLgFq0fwFr3oHFHFTyLg.jpg",
+    "Description": "Gangs of Wasseypur Part 2: The continuation of the crime saga, delving deeper into the feuds and conflicts of the Wasseypur gangs."
   },
   {
     "Title": "Fifty Shades of Grey",
-    "URL": "https://is1-ssl.mzstatic.com/image/thumb/Video69/v4/83/b7/6e/83b76e63-9ac7-96a2-ee7c-85a7996296c2/source/900x900bb.jpg"
+    "URL": "https://is1-ssl.mzstatic.com/image/thumb/Video69/v4/83/b7/6e/83b76e63-9ac7-96a2-ee7c-85a7996296c2/source/900x900bb.jpg",
+    "Description": "Fifty Shades of Grey: A romantic drama based on the bestselling novel, exploring the intense relationship between a young woman and a wealthy businessman."
   },
   {
     "Title": "The Notebook",
-    "URL": "https://th.bing.com/th/id/OIP.LZ4N0he7gCnJgh4Rjuv_0QHaK2?pid=ImgDet&rs=1"
+    "URL": "https://th.bing.com/th/id/OIP.LZ4N0he7gCnJgh4Rjuv_0QHaK2?pid=ImgDet&rs=1",
+    "Description": "The Notebook: A poignant love story that spans decades, depicting the enduring bond between two individuals from different backgrounds."
   },
   {
     "Title": "Twilight",
-    "URL": "https://image.tmdb.org/t/p/original/dOj6pzDRvi9yPMLPfeCn6qYlim4.jpg"
+    "URL": "https://image.tmdb.org/t/p/original/dOj6pzDRvi9yPMLPfeCn6qYlim4.jpg",
+    "Description": "Twilight: A fantasy romance series revolving around the forbidden love between a human and a vampire."
   },
   {
     "Title": "The Imitation Game",
-    "URL": "https://res.cloudinary.com/jerrick/image/upload/fl_progressive,q_auto,w_1024/hztvcwg7zdfdfdojvdgk.jpg"
+    "URL": "https://res.cloudinary.com/jerrick/image/upload/fl_progressive,q_auto,w_1024/hztvcwg7zdfdfdojvdgk.jpg",
+    "Description": "The Imitation Game: A biographical drama about mathematician Alan Turing and his team's efforts to crack the Enigma code during World War II."
   },
   {
     "Title": "No Strings Attached",
-    "URL": "https://th.bing.com/th/id/OIP.YpHKAoyQqmuiCsSHir32KQHaLH?pid=ImgDet&rs=1"
+    "URL": "https://th.bing.com/th/id/OIP.YpHKAoyQqmuiCsSHir32KQHaLH?pid=ImgDet&rs=1",
+    "Description": "No Strings Attached: A romantic comedy that explores the complexities of a casual relationship without any emotional attachment."
   },
   {
     "Title": "Knives Out",
-    "URL": "https://image.tmdb.org/t/p/original/5zMiji6nLQPW0N6rocXYVbQuJXo.jpg"
+    "URL": "https://image.tmdb.org/t/p/original/5zMiji6nLQPW0N6rocXYVbQuJXo.jpg",
+    "Description": "A modern murder-mystery film filled with twists and turns as a detective investigates the death of a wealthy patriarch."
   },
   {
     "Title": "The Irishman",
-    "URL": "https://image.tmdb.org/t/p/original/fhOpVy0VGvXCefuXHDlCUEkSMv7.jpg"
+    "URL": "https://image.tmdb.org/t/p/original/fhOpVy0VGvXCefuXHDlCUEkSMv7.jpg",
+    "Description": "A Martin Scorsese epic crime film that chronicles the life of mob hitman Frank Sheeran and his involvement with organized crime."
   },
   {
     "Title": "The Accountant",
-    "URL": "https://image.tmdb.org/t/p/original/vnEDk1Dr2FqrEaLjD437NYAjYVu.jpg"
+    "URL": "https://image.tmdb.org/t/p/original/vnEDk1Dr2FqrEaLjD437NYAjYVu.jpg",
+    "Description": "A Martin Scorsese epic crime film that chronicles the life of mob hitman Frank Sheeran and his involvement with organized crime."
   },
   {
     "Title": "The Social Network",
-    "URL": "https://www.themoviedb.org/t/p/original/jXbqfVHmvCikyTw2Lf5OhKyt9Ym.jpg"
+    "URL": "https://www.themoviedb.org/t/p/original/jXbqfVHmvCikyTw2Lf5OhKyt9Ym.jpg",
+    "Description": "The Social Network: The story of the creation of Facebook and the subsequent legal and personal battles faced by its founder, Mark Zuckerberg."
   },
   {
     "Title": "Snowden",
-    "URL": "https://www.themoviedb.org/t/p/original/wEesaCZrobTVtqDIgAAkTDbIqph.jpg"
+    "URL": "https://www.themoviedb.org/t/p/original/wEesaCZrobTVtqDIgAAkTDbIqph.jpg",
+    "Description": "Snowden: A biographical thriller based on the life of Edward Snowden, the whistleblower who exposed surveillance practices by intelligence agencies."
   },
   {
     "Title": "Tenet",
-    "URL": "https://th.bing.com/th/id/OIP.J9b9yJvcRxnb3Df5jILAdQHaK-?pid=ImgDet&rs=1"
+    "URL": "https://th.bing.com/th/id/OIP.J9b9yJvcRxnb3Df5jILAdQHaK-?pid=ImgDet&rs=1",
+    "Description": "Tenet: A mind-bending spy thriller where a protagonist must prevent World War III by manipulating time."
   },
   {
     "Title": "Mission Impossible",
-    "URL": "https://th.bing.com/th/id/OIP.5Wd1lOE0BuJQni9-fx51bAHaLH?pid=ImgDet&rs=1"
+    "URL": "https://th.bing.com/th/id/OIP.5Wd1lOE0BuJQni9-fx51bAHaLH?pid=ImgDet&rs=1",
+    "Description": "The long-running action franchise follows Ethan Hunt and his team as they tackle impossible missions."
   },
   {
     "Title": "Good Will Hunting",
-    "URL": "https://image.tmdb.org/t/p/original/cRGwIKM1FdDvLCz0kxcNURWtyaS.jpg"
+    "URL": "https://image.tmdb.org/t/p/original/cRGwIKM1FdDvLCz0kxcNURWtyaS.jpg",
+    "Description": "Good Will Hunting: A drama about a young janitor with a brilliant mind and his journey of self-discovery with the help of a compassionate therapist."
   },
   {
     "Title": "Oppenheimer",
-    "URL": "https://th.bing.com/th/id/OIP.gFHH-phMVZQYNvfu1O36MAHaK-?pid=ImgDet&rs=1"
+    "URL": "https://th.bing.com/th/id/OIP.gFHH-phMVZQYNvfu1O36MAHaK-?pid=ImgDet&rs=1",
+    "Description": "Oppenheimer: An upcoming historical drama about J. Robert Oppenheimer, the physicist who led the Manhattan Project during World War II."
   },
   {
     "Title": "John Wick: Chapter 4",
-    "URL": "https://www.themoviedb.org/t/p/original/kPsRQfoyYgcpbI6hvDQvUSCo0q3.jpg"
+    "URL": "https://www.themoviedb.org/t/p/original/kPsRQfoyYgcpbI6hvDQvUSCo0q3.jpg",
+    "Description": "The fourth installment in the action-packed John Wick series, following the skilled assassin's relentless pursuit of vengeance."
   },
   {
     "Title": "Fast and Furious 10",
-    "URL": "https://images-cdn.9gag.com/photo/a85VvDY_700b.jpg"
+    "URL": "https://images-cdn.9gag.com/photo/a85VvDY_700b.jpg",
+    "Description": "Fast and Furious 10: The tenth installment in the high-octane Fast and Furious franchise, known for its thrilling car chases and heists."
   },
   {
-    "Title": "Fifty Shades Darker",
-    "URL": "https://image.tmdb.org/t/p/original/7CBO9GhsUeMSsWQb47WTPZnKjdj.jpg"
+    "Title": "Medellin",
+    "URL": "https://fr.web.img5.acsta.net/r_1280_720/pictures/22/04/12/17/13/0838338.jpg",
+    "Description": "Medellin: A film about the rise and fall of a notorious drug lord."
+  },
+  {
+    "Title": "The Boys",
+    "URL": "https://th.bing.com/th/id/R.99ec52635288997d9c6b559f34a81049?rik=lM7vbgz5hhTuCg&riu=http%3a%2f%2f159.203.108.138%2fwp-content%2fuploads%2f2020%2f08%2fThe-Boys-Key-Art-Homelander.jpg&ehk=uYulJ%2fHshAH2K7Aj4j8TAwUULXcjpOER%2fcEP0LbBBaM%3d&risl=&pid=ImgRaw&r=0",
+    "Description": "The Boys: A group of vigilantes fighting against corrupt superheroes."
+  },
+  {
+    "Title": "Rocky III",
+    "URL": "https://image.tmdb.org/t/p/original/9jS3wG3cNSEu8sVUFAFQ8exyaaH.jpg",
+    "Description": "Rocky III: Boxer Rocky Balboa faces a fierce rival in the ring and must find the strength to overcome him."
+  },
+  {
+    "Title": "Top Gun",
+    "URL": "https://image.tmdb.org/t/p/original/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+    "Description": "Top Gun: A hotshot fighter pilot struggles to balance his personal life with the demands of his military career."
+  },
+  {
+    "Title": "Gladiator",
+    "URL": "https://www.themoviedb.org/t/p/original/ixsPIb7dIiZlrqbV1QVdqA9XWxm.jpg",
+    "Description": "Gladiator: A former Roman general seeks revenge as a gladiator in ancient Rome."
+  },
+  {
+    "Title": "Spiderman",
+    "URL": "https://image.tmdb.org/t/p/original/wZGlaMxBAjCIYLzyDWvocaoNooZ.jpg",
+    "Description": "Spiderman: A teenager acquires superhuman abilities and becomes the web-slinging hero, Spider-Man."
+  },
+  {
+    "Title": "The Wolf of Wall Street",
+    "URL": "https://th.bing.com/th/id/OIP.RmMyooA9_EFz_eMmFIop1AHaLH?pid=ImgDet&rs=1",
+    "Description": "The Wolf of Wall Street: Based on the true story of Jordan Belfort, a stockbroker's rise and fall in the world of finance."
+  },
+  {
+    "Title": "Catch Me If you Can",
+    "URL": "https://www.themoviedb.org/t/p/original/vG3YcgXuZABv7C8nd5bEyuMfyTQ.jpg",
+    "Description": "Catch Me If You Can: A young con artist outwits authorities while impersonating various professions."
+  },
+  {
+    "Title": "Rocky Balboa",
+    "URL": "https://image.tmdb.org/t/p/original/bgheMOLFVkpiZ3KhG3PGrMAPdXn.jpg",
+    "Description": "Rocky Balboa: Aging boxer Rocky Balboa comes out of retirement for one last fight."
+  },
+  {
+    "Title": "Black Adam",
+    "URL": "https://th.bing.com/th/id/OIP.q1O8ogElVQDJVPU7d7HBPwAAAA?pid=ImgDet&rs=1",
+    "Description": "Black Adam: A DC Comics superhero film featuring the character Black Adam, an anti-hero with supernatural powers."
+  },
+  {
+    "Title": "Rocky V",
+    "URL": "https://img.moviesrankings.com/t/p/w1280/nJc3IuQlRgnLfiztfwUt0czaJQR.jpg",
+    "Description": "Rocky V: Rocky Balboa faces personal and financial challenges while training a promising young boxer."
+  },
+  {
+    "Title": "Rocky IV",
+    "URL": "https://th.bing.com/th/id/OIP.2x7CKVAu02e7j4Dy5TqobQHaLR?pid=ImgDet&rs=1",
+    "Description": "Rocky IV: Rocky Balboa fights against a powerful Soviet boxer in a battle of ideologies."
+  },
+  {
+    "Title": "Jurassic World Domination",
+    "URL": "https://th.bing.com/th/id/R.c65a9a09eeaef770e79992a4251c17c9?rik=ipn9dfbI%2fLpoJw&riu=http%3a%2f%2fimages6.fanpop.com%2fimage%2fphotos%2f43200000%2fJurassic-World-Domination-poster-jurassic-park-43256782-1080-1560.jpg&ehk=PQSkWo15PQwTKbQludFu2icmaqq9TO0HWU2RKwfitDU%3d&risl=&pid=ImgRaw&r=0",
+    "Description": "Jurassic World Domination: The dinosaurs of Jurassic World escape and wreak havoc on civilization."
+  },
+  {
+    "Title": "Top Gun Maverick",
+    "URL": "https://wallpapercave.com/wp/wp4499525.jpg",
+    "Description": "Top Gun Maverick: The sequel to Top Gun, following the story of a new generation of fighter pilots."
+  },
+  {
+    "Title": "American Gangster",
+    "URL": "https://image.tmdb.org/t/p/original/wHhbefZSJzDr5ZWHdcXCo4qhmTX.jpg",
+    "Description": "American Gangster: Based on the true story of a Harlem drug lord and the detective determined to bring him down."
+  },
+  {
+    "Title": "L.A Confidential",
+    "URL": "https://static.rogerebert.com/uploads/movie/movie_poster/la-confidential-1997/large_mJY1T54am8pH1Iwam9KiDhXpN0M.jpg",
+    "Description": "L.A Confidential: A neo-noir crime film set in 1950s Los Angeles, featuring corruption and scandal."
+  },
+  {
+    "Title": "The Godfather Part 2",
+    "URL": "https://th.bing.com/th/id/R.cf86847be46399321e4de1f6f2b4ac90?rik=wRq7PN05ooFdvA&riu=http%3a%2f%2fstatic.rogerebert.com%2fuploads%2fmovie%2fmovie_poster%2fthe-godfather-part-ii-1974%2flarge_tHbMIIF51rguMNSastqoQwR0sBs.jpg&ehk=xMOXnSNzsg3Rn%2bQmCRzHYbgdpfvdzP%2fs7Qi0%2br%2be4qw%3d&risl=&pid=ImgRaw&r=0",
+    "Description": "The Godfather Part 2: A continuation of the epic saga of the Corleone crime family."
+  },
+  {
+    "Title": "King Kong",
+    "URL": "https://th.bing.com/th/id/OIP.t1Ag3yxqT7Mvz7mmXjyVcwHaK-?pid=ImgDet&rs=1",
+    "Description": "King Kong: A giant ape is captured and brought to New York City, leading to chaos and destruction."
+  },
+  {
+    "Title": "Moonlight",
+    "URL": "https://www.themoviedb.org/t/p/original/jHNOriz0dZazncIusgweRqJqaj5.jpg",
+    "Description": "Moonlight: A coming-of-age drama that explores themes of identity, sexuality, and race."
+  },
+  {
+    "Title": "IP Man",
+    "URL": "https://www.themoviedb.org/t/p/original/5JpvPe8rrv88RviCtYZt7AC17zw.jpg",
+    "Description": "IP Man: Based on the life of martial arts master Ip Man, known for his association with Bruce Lee."
+  },
+  {
+    "Title": "Spiderman Into the SpiderVerse",
+    "URL": "https://image.tmdb.org/t/p/original/16HMAMQNceEKrY3odATphns0lm7.jpg",
+    "Description": "Spiderman Into the SpiderVerse: Multiple versions of Spider-Man from different dimensions team up to save the multiverse."
+  },
+  {
+    "Title": "Batman Begins",
+    "URL": "https://th.bing.com/th/id/OIP.1LtKOuUrKBgaaKDFREF4mwHaLH?pid=ImgDet&rs=1",
+    "Description": "Batman Begins: The origin story of Batman, as Bruce Wayne embraces his alter ego to fight crime in Gotham City."
+  },
+  {
+    "Title": "Now You See Me",
+    "URL": "https://th.bing.com/th/id/R.f27fff7c5954de04b11008d55e8ac141?rik=qdYlu%2fsMyLDBSg&riu=http%3a%2f%2fwww.newdvdreleasedates.com%2fimages%2fposters%2flarge%2fnow-you-see-me-2013-05.jpg&ehk=lSNmTBmL8W2MpTcv6b%2btGv%2bzWwEsqtOBKaZ%2fOP%2fnIxk%3d&risl=&pid=ImgRaw&r=0",
+    "Description": "Now You See Me: A group of illusionists perform heists during their magic shows while being pursued by the FBI."
+  },
+  {
+    "Title": "Mission Impossible: Fallout",
+    "URL": "https://th.bing.com/th/id/OIP.FwNb7ENBbrPbpzmQn9hcwQHaLH?pid=ImgDet&rs=1",
+    "Description": "Mission Impossible: Fallout: Ethan Hunt and his team race against time to prevent a global catastrophe."
+  },
+  {
+    "Title": "Knight and Day",
+    "URL": "https://th.bing.com/th/id/R.d2a38e2a89c68d5840759d209e19b15b?rik=seky61cV%2fpDHIg&riu=http%3a%2f%2fstatic.rogerebert.com%2fuploads%2fmovie%2fmovie_poster%2fknight-and-day-2010%2flarge_nmFcnv2B8QkpMMPmUWDxLs0xGEJ.jpg&ehk=R5jxTJVWzYvII0RtR3EO0SnENe3jzOFyczSkZPyZBlg%3d&risl=&pid=ImgRaw&r=0",
+    "Description": "Knight and Day: A romantic action-comedy about a woman caught up in a secret agent's dangerous mission."
+  },
+  {
+    "Title": "Mission Impossible: Rogue Nation",
+    "URL": "https://image.tmdb.org/t/p/original/jl55PymKKRMpTVQyLyMS3Iqg7Vx.jpg",
+    "Description": "Mission Impossible: Rogue Nation: Ethan Hunt and his team face off against a secret organization known as the Syndicate."
+  },
+  {
+    "Title": "Godzilla vs Kong",
+    "URL": "https://www.themoviedb.org/t/p/original/51tAtnATqN9VizZDnCN0IdCQpXF.jpg",
+    "Description": "Godzilla vs Kong: The two legendary creatures battle each other in an epic showdown."
+  },
+  {
+    "Title": "Constantine",
+    "URL": "https://th.bing.com/th/id/OIP.6BBXh8bAry54aHxsq-JTgwHaLH?pid=ImgDet&rs=1",
+    "Description": "Constantine: A supernatural detective battles demons and other supernatural entities in an effort to save humanity."
+  },
+  {
+    "Title": "2Guns",
+    "URL": "https://image.tmdb.org/t/p/original/kzDEuMbyaD3sv6y5mUP6Rcyg2yL.jpg",
+    "Description": "2Guns: Two undercover agents from different organizations team up to take down a drug cartel."
+  },
+  {
+    "Title": "The Guilty",
+    "URL": "https://th.bing.com/th/id/OIP.AvkpnFDohHk8s2osfsAYQQHaK9?pid=ImgDet&rs=1",
+    "Description": "The Guilty: A police officer answering emergency calls becomes embroiled in a tense situation."
+  },
+  {
+    "Title": "Silver Linings Playbook",
+    "URL": "https://www.themoviedb.org/t/p/original/g1wfh6BLd5rthHzSdbCnykXPYvG.jpg",
+    "Description": "Silver Linings Playbook: A man with bipolar disorder forms an unlikely bond with a woman dealing with her own challenges."
+  },
+  {
+    "Title": "Batman vs Superman: Dawn of Justice",
+    "URL": "https://i2.wp.com/gofatherhood.com/wp-content/uploads/2016/03/batman-v-superman-dawn-of-justice-movie-poster-batman-v-superman-dawn-of-justice-poster-one-sheet-3.jpg?fit=1080%2C1620&ssl=1",
+    "Description": "Batman vs Superman: Dawn of Justice: The two iconic superheroes clash as their differing ideologies lead to conflict."
+  },
+  {
+    "Title": "Man of Steel",
+    "URL": "https://th.bing.com/th/id/OIP.bNdRDAAKgckecExkm2vUqAHaJ3?pid=ImgDet&rs=1",
+    "Description": "Man of Steel: The story of Superman's origins and his journey to become Earth's protector."
+  },
+  {
+    "Title": "The Blind Side",
+    "URL": "https://media-cache.cinematerial.com/p/500x/hj71kpca/the-blind-side-movie-poster.jpg?v=1456850993",
+    "Description": "The Blind Side: A wealthy family takes in a homeless teenager who becomes a successful football player."
+  },
+  {
+    "Title": "The Amazing Spiderman",
+    "URL": "https://th.bing.com/th/id/OIP.wnl-P7gJzG3ayBtumyqltAHaLH?pid=ImgDet&rs=1",
+    "Description": "The Amazing Spiderman: A reboot of the Spider-Man franchise, focusing on the early days of Peter Parker as Spider-Man."
+  },
+  {
+    "Title": "Run",
+    "URL": "https://www.themoviedb.org/t/p/original/3L6H61s0epd6sdZQFfc6OXRi6BB.jpg",
+    "Description": "Run: A mother's secrets and lies are exposed when her daughter starts to unravel the truth."
+  },
+  {
+    "Title": "6 Underground",
+    "URL": "https://cdn.flickeringmyth.com/wp-content/uploads/2019/11/6-Underground-poster-600x889.jpg",
+    "Description": "6 Underground: A team of vigilantes with unique skills join forces to take down criminals."
+  },
+  {
+    "Title": "The Trial of Chicago 7",
+    "URL": "https://th.bing.com/th/id/OIP.G9UShyW5EXyOEBtMPx1wdAHaK-?pid=ImgDet&rs=1",
+    "Description": "The Trial of Chicago 7: Based on the true story of the trial of seven individuals accused of inciting a riot at the 1968 Democratic National Convention."
+  },
+  {
+    "Title": "Spiderman: No Way Home",
+    "URL": "https://www.fiz-x.com/wp-content/uploads/2021/11/Marvels-SPIDERMAN-NO-WAY-HOME-New-Poster.jpeg",
+    "Description": "Spiderman: No Way Home: The third installment in the Spider-Man franchise, featuring a multiverse storyline."
+  },
+  {
+    "Title": "The Adam Project",
+    "URL": "https://i.etsystatic.com/32122259/r/il/f41ef6/3780439654/il_794xN.3780439654_hs9x.jpg",
+    "Description": "The Adam Project: A man travels back in time to get help from his 13-year-old self to find their late father."
+  },
+  {
+    "Title": "Infinite Storm",
+    "URL": "https://www.themoviedb.org/t/p/original/5DtH6ArdCFS3vazeSGRJSTRAsAx.jpg",
+    "Description": "Infinite Storm: A sci-fi action film about a group of individuals with extraordinary abilities who must save the world from destruction."
+  },
+  {
+    "Title": "Wrath of Man",
+    "URL": "https://image.tmdb.org/t/p/original/jNtxd5A9XjNEhiyMXWXA9FdyZac.jpg",
+    "Description": "Wrath of Man: An armored truck driver seeks revenge against those responsible for the death of his son."
+  },
+  {
+    "Title": "The Highwaymen",
+    "URL": "https://th.bing.com/th/id/OIP.croDAosTeTxWiVe0rbgN4AHaLB?pid=ImgDet&rs=1",
+    "Description": "The Highwaymen: Two retired Texas Rangers join forces to track down and apprehend the notorious criminals Bonnie and Clyde."
+  },
+  {
+    "Title": "The Pale Blue eye",
+    "URL": "https://www.comingsoon.net/wp-content/uploads/sites/3/2022/11/the-pale-blue-eye-poster.jpg?resize=169",
+    "Description": "The Pale Blue Eye: A detective investigates a series of murders at the United States Military Academy."
+  },
+  {
+    "Title": "Ghost Ship",
+    "URL": "https://th.bing.com/th/id/OIP.f_SLkTms3cdDc4itnqpp0AHaLH?pid=ImgDet&rs=1",
+    "Description": "Ghost Ship: A salvage crew discovers a haunted ship that brings terror and death."
+  },
+  {
+    "Title": "Deliver Us from Devil",
+    "URL": "https://th.bing.com/th/id/OIP.Pxlx_URRyesP7o1m-De4yQHaKu?pid=ImgDet&rs=1",
+    "Description": "Deliver Us from Devil: An assassin seeks redemption as he confronts his dark past and battles dangerous enemies."
+  },
+  {
+    "Title": "The Forest",
+    "URL": "https://th.bing.com/th/id/OIP.IQrdPCjsDJrF6ErkEY-xkwHaLI?pid=ImgDet&rs=1",
+    "Description": "The Forest: A woman searches for her missing twin sister in Japan's Aokigahara Forest, known as a place of paranormal activity."
+  },
+  {
+    "Title": "El Camino",
+    "URL": "https://th.bing.com/th/id/OIP.1zeA0ENCgnAwmD-rLXIpugHaLH?pid=ImgDet&rs=1",
+    "Description": "El Camino: A Breaking Bad movie that follows the journey of Jesse Pinkman after the events of the TV series."
+  },
+  {
+    "Title": "The Outsider",
+    "URL": "https://i0.wp.com/teaser-trailer.com/wp-content/uploads/The-Outsider-mvoie-poster.jpg?ssl=1",
+    "Description": "The Outsider: A police investigation into a gruesome murder leads to the discovery of supernatural forces."
+  },
+  {
+    "Title": "Vanilla Sky",
+    "URL": "https://th.bing.com/th/id/R.1fd438e4d7592c22fb9aa3bd91bd3c9e?rik=oXhKRn62z4gF0A&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2feyagSl8lWjZry4TgGBYU5rBlnem.jpg&ehk=Oe0qdk6oacBUdpwHBVD65Zyd2S%2bbZIiHHMmJQlYyNZE%3d&risl=&pid=ImgRaw&r=0",
+    "Description": "Vanilla Sky: A man's life takes a surreal turn after a car accident, blurring the lines between dreams and reality."
+  },
+  {
+    "Title": "The Little Things",
+    "URL": "https://www.themoviedb.org/t/p/original/tLO1aD1ghdtVMT32z2sRmzgYKYd.jpg",
+    "Description": "The Little Things: Two detectives join forces to track down a serial killer, uncovering dark secrets along the way."
+  },
+  {
+    "Title": "Blade",
+    "URL": "https://th.bing.com/th/id/OIP.JwqNGh05NAscPa5lBeeNBAHaK_?pid=ImgDet&rs=1",
+    "Description": "Blade: A half-vampire, half-mortal hunter seeks to rid the world of vampires."
+  },
+  {
+    "Title": "Public Enemies",
+    "URL": "https://i.pinimg.com/originals/ae/52/7f/ae527f675cd8f67a6e81240711ba8ab2.jpg",
+    "Description": "Public Enemies: The story of notorious bank robber John Dillinger and the FBI agent determined to bring him to justice."
+  },
+  {
+    "Title": "Blonde",
+    "URL": "https://th.bing.com/th/id/OIP.hgfwaM2akBvBaolmfgxpgQHaK-?pid=ImgDet&rs=1",
+    "Description": "Blonde: A fictionalized account of the life of Marilyn Monroe, exploring her rise to stardom and personal struggles."
+  },
+  {
+    "Title": "The Last Days",
+    "URL": "https://th.bing.com/th/id/OIP.YtJF3gFgDLk4f51661xGKAHaKk?pid=ImgDet&rs=1",
+    "Description": "The Last Days: A post-apocalyptic thriller set in a world devastated by a deadly virus."
+  },
+  {
+    "Title": "The Tourist",
+    "URL": "https://th.bing.com/th/id/OIP.k0k1NvneCvVIudQe-nGU8AHaKA?pid=ImgDet&rs=1",
+    "Description": "The Tourist: A man's life is turned upside down when he becomes entangled in a web of intrigue and romance while on vacation."
+  },
+  {
+    "Title": "Mission Impossible III",
+    "URL": "https://th.bing.com/th/id/OIP.AUIY8D3RAqr3fe-K5_gf6QHaK-?pid=ImgDet&rs=1",
+    "Description": "Mission Impossible III: Ethan Hunt faces off against a dangerous arms dealer while dealing with personal challenges."
+  },
+  {
+    "Title": "Mission Impossible 2",
+    "URL": "https://th.bing.com/th/id/R.2fa29d0798c9d0f75e70e65a52d908e7?rik=zPvnEBBp4aL%2fgA&riu=http%3a%2f%2f2.bp.blogspot.com%2f_3N0VetpYvQE%2fSxWqGMmCUZI%2fAAAAAAAABC4%2fUN9xK0eFSls%2fs1600%2fMission_Impossible_2_1.jpg&ehk=LJwjPOL7Cj9NE7Tevcb%2bKBLJrby24ZANpm84WUXRq3Y%3d&risl=&pid=ImgRaw&r=0",
+    "Description": "Mission Impossible 2: Ethan Hunt must retrieve a deadly virus while facing a former ally turned enemy."
+  },
+  {
+    "Title": "SAS: The Rise of Black Swan",
+    "URL": "https://occ-0-3934-3418.1.nflxso.net/dnm/api/v6/Da_vleYcahiCE7JMYt8LJRyoenc/AAAABdmB-3-6cy2oDnwo4oGhtuQagRxvcmiUvh8iopdsxTJCOokia4FHwQ7ho7W3p3u2LGr-hR2X6NdnccCYGF5c-xX9MiVf.jpg",
+    "Description": "SAS: The Rise of Black Swan: A special forces team is sent on a mission to uncover a deadly conspiracy."
+  },
+  {
+    "Title": "Hellboy II The Golden Army",
+    "URL": "https://www.themoviedb.org/t/p/original/dvtIT0sJZuRmwdqPeOO15vJLrLX.jpg",
+    "Description": "Hellboy II The Golden Army: Hellboy battles an ancient prince and his army of mythical creatures."
+  },
+  {
+    "Title": "The Gray Man",
+    "URL": "https://northcoastcourier.co.za/wp-content/uploads/sites/73/2022/07/The-Gray-Man-Movie-Poster.jpg",
+    "Description": "The Gray Man: A former CIA operative turned assassin is pursued by a young agent in a deadly game of cat and mouse."
+  },
+  {
+    "Title": "Mosul",
+    "URL": "https://www.themoviedb.org/t/p/original/cOaq0MJNf3cCZsPeXWjw95CI0qv.jpg",
+    "Description": "Mosul: A group of Iraqi SWAT officers fight against ISIS in the city of Mosul."
+  },
+  {
+    "Title": "Steel Rain",
+    "URL": "https://media.senscritique.com/media/000017784799/source_big/Steel_Rain.jpg",
+    "Description": "Steel Rain: A North Korean agent and a South Korean spy must work together to prevent a nuclear war."
+  },
+  {
+    "Title": "American Underdog",
+    "URL": "https://www.vitalthrills.com/wp-content/uploads/2021/08/americanunderdogposter.jpg",
+    "Description": "American Underdog: The inspiring true story of NFL quarterback Kurt Warner's journey from grocery store clerk to football star."
+  },
+  {
+    "Title": "Stand By Me",
+    "URL": "https://image.tmdb.org/t/p/original/bUvHHEWqN2KDBUf7bRz1UFczxEP.jpg",
+    "Description": "Stand By Me: Four friends embark on a journey to find a dead body and discover the meaning of friendship and growing up."
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "URL": "https://th.bing.com/th/id/OIP.sH4tH1l2mTF2KMzf123qJwHaLH?pid=ImgDet&rs=1",
+    "Description": "Pride and Prejudice: Based on Jane Austen's classic novel, the story follows the romantic entanglements of the Bennet sisters in 19th-century England."
+  },
+  {
+    "Title": "Justice League",
+    "URL": "https://image.tmdb.org/t/p/original/eRoXqOzciHkSPs1Z8pGnJMZo0Zb.jpg",
+    "Description": "Justice League: A team of superheroes, including Batman, Superman, Wonder Woman, and others, join forces to save the world from a powerful threat."
+  },
+  {
+    "Title": "S.W.A.T",
+    "URL": "https://th.bing.com/th/id/R.7cf94a17335c353e256e211b81070739?rik=2AdvyYhFYFW5tw&riu=http%3a%2f%2fstatic.rogerebert.com%2fuploads%2fmovie%2fmovie_poster%2fswat-2003%2flarge_Aa9U6KrKZjQP5TF4rC3ZEVyuPXU.jpg&ehk=M7x%2fV%2f%2f5WXu4q9Fnw0y4%2fnHbV%2bieH1JMxvWo2NtydIg%3d&risl=&pid=ImgRaw&r=0",
+    "Description": "S.W.A.T: A specialized police unit tackles high-risk operations to protect the city from dangerous criminals."
+  },
+  {
+    "Title": "The Conjuring: The Devil Made Me Do It",
+    "URL": "https://www.themoviedb.org/t/p/original/bq6CBi4bNWRqP7Ld9TtK6fRPXMC.jpg",
+    "Description": "The Conjuring: The Devil Made Me Do It: Paranormal investigators Ed and Lorraine Warren confront a chilling case involving demonic possession and murder."
   }
 ]

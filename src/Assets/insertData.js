@@ -14,6 +14,7 @@ mongoose.connect('mongodb+srv://satellite_21:3uCWwwf8K49dvq3B@satellite.cfn4pz0.
 const movieSchema = new mongoose.Schema({
   Title: String,
   URL: String,
+  Description: String
 });
 
 // Create a model based on the schema
