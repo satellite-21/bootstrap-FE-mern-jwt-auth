@@ -15,53 +15,58 @@ const AdminPage = () => {
 
 
   useEffect(() => {
-    fetchMovies();
+    fetchMovies(searchQuery);
   }, [page]);
 
-  const fetchMovies = async () => {
+  const fetchMovies = async (query) => {
     try{
         setLoading(true);
         const excludedMovies = movies.map(movie => movie._id);
 
     //   const response = await axios.get("http://localhost:8080/api/movies");
-    const response = await axios.get(`http://localhost:8080/api/movies?page=${page}&search=${searchQuery}&excludedMovies=${excludedMovies}`);
-    //   setMovies(response.data);
-    setMovies((prevMovies) => [...prevMovies, ...response.data]);
-    setLoading(false);
+    const response = await axios.get(`http://localhost:8080/api/movies?page=${page}&search=${query}&excludedMovies=${excludedMovies}`);
+    if (query) {
+        setMovies(response.data);
+      } else {
+        setMovies((prevMovies) => {
+          const movieIds = prevMovies.map((movie) => movie._id);
+          const newMovies = response.data.filter(
+            (movie) => !movieIds.includes(movie._id)
+          );
+          return [...prevMovies, ...newMovies];
+        });
+      }
+  
+      setLoading(false);
     } catch (error) {
       console.log("Error fetching movies.", error);
       }
   };
 
-
-//   const handleSearch = debounce(() => {
-//     try{
-//       const response =  await axios.get(`http://localhost:8080/api/movies?search=${searchQuery}`);
-//       setMovies(response.data);
-//     } catch(error){
-//       console.log("Error searching movies.", error);
-//     }
-//   }, 500);
-
 const handleSearch = debounce(() => {
     setPage(1);
     setMovies([]);
-    fetchMovies();
+    fetchMovies(searchQuery);
   }, 500);
 
   const handleChange = (e) => {
+    const query = e.target.value;
     setSearchQuery(e.target.value);
-    handleSearch();
-  };
 
-//   const handleDeleteMovie = async (movieId) => {
-//     try {
-//       await axios.delete(`http://localhost:8080/api/movies/${movieId}`);
-//       fetchMovies();
-//     } catch (error) {
-//       console.log("Error deleting movie.", error);
-//     }
-//   };
+    if(query === ''){
+        // setMovies([]);
+        setPage(1);
+        fetchMovies('')
+    }
+    else{debounceSearch();}
+    
+  };
+  const debounceSearch = debounce(() => {
+    setPage(1);
+    setMovies([]);
+    fetchMovies(searchQuery);
+  }, 500);
+
 const handleDeleteMovie = async (movieId) => {
     try {
       await axios.delete(`http://localhost:8080/api/movies/${movieId}`);
@@ -76,6 +81,7 @@ const handleDeleteMovie = async (movieId) => {
       window.innerHeight + document.documentElement.scrollTop === document.documentElement.offsetHeight &&
       !loading
     ) {
+        setLoading(true);
       setPage((prevPage) => prevPage + 1);
     }
   };
@@ -140,12 +146,12 @@ const handleDeleteMovie = async (movieId) => {
             onChange={(e) => setDescription(e.target.value)}
             />
 
-        <button type="submit">Add</button>
+        <button type="submit">Add Movie</button>
 
       </form>
       </div>
 
-      <div className="mainContainer">
+      <div className={`mainContainer ${loading ? 'loading' : ''}`}>
       {movies.map((movie) => (
           <MovieBoxAdmin key={movie._id} id={movie._id} title={movie.Title} url={movie.URL} description={movie.Description} onDelete={handleDeleteMovie}/>
         ))}

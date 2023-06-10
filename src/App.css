@@ -34,6 +34,7 @@ label {
 
 .movieContainer {
   border: 2px solid rgba(59, 59, 59, 0.8);
+  border-style:groove;
   text-align: center;
   padding: 10px;
   margin: 10px;
@@ -79,4 +80,11 @@ label {
 
 .searchContainer{
   margin-bottom: 10px;
+}
+
+.loading {
+  cursor: wait;
+}
+.mainContainer.loading {
+  cursor: wait;
 }
