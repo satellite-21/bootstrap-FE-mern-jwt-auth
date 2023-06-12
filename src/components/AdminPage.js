@@ -21,8 +21,7 @@ const AdminPage = () => {
   const fetchMovies = async (query) => {
     try{
         setLoading(true);
-        const excludedMovies = movies.map(movie => movie._id);
-
+        const excludedMovies = JSON.stringify(movies.map(movie => movie._id));
     //   const response = await axios.get("http://localhost:8080/api/movies");
     const response = await axios.get(`http://localhost:8080/api/movies?page=${page}&search=${query}&excludedMovies=${excludedMovies}`);
     if (query) {
@@ -81,10 +80,12 @@ const handleDeleteMovie = async (movieId) => {
       window.innerHeight + document.documentElement.scrollTop === document.documentElement.offsetHeight &&
       !loading
     ) {
-        setLoading(true);
+      setLoading(true);
       setPage((prevPage) => prevPage + 1);
+      fetchMovies(searchQuery); // Call fetchMovies with searchQuery parameter
     }
   };
+  
 
 
   useEffect(() => {

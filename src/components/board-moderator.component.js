@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-
+import ModeratorPage from "./ModeratorPage"
 import UserService from "../services/user.service";
 import EventBus from "../common/EventBus";
 
@@ -40,7 +40,8 @@ export default class BoardModerator extends Component {
     return (
       <div className="container">
         <header className="jumbotron">
-          <h3>{this.state.content}</h3>
+          {/* <h3>{this.state.content}</h3> */}
+          <ModeratorPage />
         </header>
       </div>
     );

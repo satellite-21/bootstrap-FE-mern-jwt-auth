@@ -7,9 +7,9 @@ function Display(props) {
     const [editField, setEditField] = useState("");
     const [editValue, setEditValue] = useState("");
 
-    const handleDelete = () => {
-        props.onDelete(props.id);
-      };
+    // const handleDelete = () => {
+    //     props.onDelete(props.id);
+    //   };
 
       const handleEdit = () => {
         setEditing(true);
@@ -74,7 +74,7 @@ function Display(props) {
         renderEditForm()
       ) : (
         <>
-          <button onClick={handleDelete}>Delete</button>
+          {/* <button onClick={handleDelete}>Delete</button> */}
           <button onClick={handleEdit}>Edit</button>
         </>
       )}

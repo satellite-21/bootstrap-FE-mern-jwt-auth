@@ -7,19 +7,36 @@ import { debounce } from 'lodash';
 
 const UserPage = () => {
 
-  const [searchQuery, setSearchQuery] = useState("");
-  const [movies,  setMovies] = useState([]);
 
+  const [searchQuery, setSearchQuery] = useState("");
+  const [movies, setMovies] = useState([]);
+  const [page, setPage] = useState(1);
+  const [loading, setLoading] = useState(false);
 
 
   useEffect(() => {
-    fetchMovies();
-  }, []);
+    fetchMovies(searchQuery);
+  }, [page]);
 
-  const fetchMovies = async () => {
+  const fetchMovies = async (query) => {
     try{
-      const response = await axios.get("http://localhost:8080/api/movies");
-      setMovies(response.data);
+        setLoading(true);
+        const excludedMovies = JSON.stringify(movies.map(movie => movie._id));
+    //   const response = await axios.get("http://localhost:8080/api/movies");
+    const response = await axios.get(`http://localhost:8080/api/movies?page=${page}&search=${query}&excludedMovies=${excludedMovies}`);
+    if (query) {
+        setMovies(response.data);
+      } else {
+        setMovies((prevMovies) => {
+          const movieIds = prevMovies.map((movie) => movie._id);
+          const newMovies = response.data.filter(
+            (movie) => !movieIds.includes(movie._id)
+          );
+          return [...prevMovies, ...newMovies];
+        });
+      }
+  
+      setLoading(false);
     } catch (error) {
       console.log("Error fetching movies.", error);
       }
@@ -35,6 +52,24 @@ const UserPage = () => {
     }
   }, 500);
 
+
+  const handleScroll = () => {
+    if (
+      window.innerHeight + document.documentElement.scrollTop === document.documentElement.offsetHeight &&
+      !loading
+    ) {
+      setLoading(true);
+      setPage((prevPage) => prevPage + 1);
+      fetchMovies(searchQuery); // Call fetchMovies with searchQuery parameter
+    }
+  };
+
+  useEffect(() => {
+    window.addEventListener("scroll", handleScroll);
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
 
   const handleChange = (e) => {
     setSearchQuery(e.target.value);
@@ -59,7 +94,7 @@ const UserPage = () => {
         ))}
       </div>
 
-      
+      {loading && <p>Loading...</p>}
 
     </div>  
   );

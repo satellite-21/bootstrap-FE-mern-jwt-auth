@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-
+import UserPage  from "./UserPage";
 import UserService from "../services/user.service";
 
 export default class Home extends Component {
@@ -33,7 +33,8 @@ export default class Home extends Component {
     return (
       <div className="container">
         <header className="jumbotron">
-          <h3>{this.state.content}</h3>
+          {/* <h3>{this.state.content}</h3> */}
+          <UserPage />
         </header>
       </div>
     );
