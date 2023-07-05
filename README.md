@@ -1,6 +1,6 @@
 ## React JWT Authentication
 
-- JWT Authentication Flow for User Signup & User Log-in
+- JWT Authentication Flow for User Signup & User Log-in flow 
 - Project Structure for React JWT Authentication (without Redux) with LocalStorage, React Router & Axios
 - Creating React Components with Form Validation
 - React Components for accessing protected Resources (Authorization)
